@@ -36,7 +36,7 @@ Bu proje, bir **kitabevi** için MySQL tabanlı bir veritabanı oluşturma, sorg
    pip install mysql-connector-python
 3. **Programı Çalıştırın** 
 evaluation.py dosyasını çalıştırarak kodunuzu test edebilirsiniz.
-📝 Kurallar
+## 📝 Kurallar
 Programlama dili: Python
 Kodun bookdb.py dosyasında yer alması gerekmektedir.
 Veritabanı sorguları MySQL kullanarak çalıştırılacaktır.
